@@ -7,4 +7,10 @@ class Transfer
     @status =status
     @amount =amount
   end
+  
+  def valid? 
+  end
+  
+  def
+
 end

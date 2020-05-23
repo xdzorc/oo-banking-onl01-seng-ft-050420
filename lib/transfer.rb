@@ -14,6 +14,7 @@ class Transfer
   def execute_transaction
   end
   
-  def 
+  def reverse_transfer
+  end
 
 end
